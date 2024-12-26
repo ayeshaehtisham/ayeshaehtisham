@@ -1,10 +1,13 @@
-- Hey👋, This is **Ayesha Ehtisham**
+# Hey👋, This is **Ayesha Ehtisham**
+## Flutter | Web Developer | Crafting logic, one line at a time.
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayeshaehtisham&label=Profile%20Views&color=blue&style=plastic)  
   
-- 👀 I’m currently working on **Flutter**
+- 🌱 I’m currently learning **Flutter, Frontend development**
   
-- 🌱 I’m currently gaining knowledge of **Cybersecurity**
-  
-- 📫 contact me ayeshaehtisham04@gmail.com
+- 💬 Ask me about: **Mobile App Development, Web Development, Cybersecurity.**
+   
+- 📫 Reach me ayeshaehtisham04@gmail.com
   
 - ⚡ Fun fact: **Did you know? One famous hacker, Kevin Mitnick, once managed to hack into a system by guessing a password with the user’s birthday. Simple human habits can be big vulnerabilities!** 
 <!---
@@ -12,7 +15,7 @@ ayeshaehtisham/ayeshaehtisham is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-## Reach me:
+## Connect with me:
 <p align="left">
   <a href="https://www.instagram.com/its_asha04/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
@@ -36,4 +39,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaehtisham&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayeshaehtisham&show_icons=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayeshaehtisham&theme=gruvbox)
 
