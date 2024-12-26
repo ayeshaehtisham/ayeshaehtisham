@@ -1,7 +1,5 @@
-<div align="center">
 # Hey👋, This is **Ayesha Ehtisham**
 ## Flutter | Web Developer | Crafting logic, one line at a time.
-</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayeshaehtisham&label=Profile%20Views&color=blue&style=plastic)  
   
@@ -19,9 +17,10 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect with me:
 <p align="left">
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_asha04/)
+  <a href="https://www.instagram.com/its_asha04/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
+  </a>
 </p>
-
 
 ## Languages and Tools:
 <p align="left">
