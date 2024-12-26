@@ -1,5 +1,7 @@
+<div align="center">
 # Hey👋, This is **Ayesha Ehtisham**
 ## Flutter | Web Developer | Crafting logic, one line at a time.
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayeshaehtisham&label=Profile%20Views&color=blue&style=plastic)  
   
@@ -17,9 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.instagram.com/its_asha04/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-  </a>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_asha04/)
 </p>
 
 
@@ -38,9 +38,19 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaehtisham&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayeshaehtisham&show_icons=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayeshaehtisham&theme=gruvbox)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaehtisham&layout=compact&theme=default" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ayeshaehtisham&show_icons=true&theme=default" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=ayeshaehtisham&theme=default" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
