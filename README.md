@@ -3,8 +3,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayeshaehtisham&label=Profile%20Views&color=0e75b6&style=flat)  
 
----
-
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **Frontend Development**
@@ -21,15 +19,9 @@
 
 ## 🔗 Let's Connect
 <p align="left">
-  <a href="www.linkedin.com/in/ayesha-ehtisham" target="_blank">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-  </a>
-  <a href="https://www.instagram.com/its_asha04/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
-  </a>
-  <a href="www.discord.com/users/ayeshaehtisham." target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Discord_logo_2023.svg" alt="Discord" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
- </a>
+[![My Socials](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/ayesha-ehtisham)
+[![My Socials](https://skillicons.dev/icons?i=instagram&perline=1)](https://www.instagram.com/its_asha04)
+[![My Socials](https://skillicons.dev/icons?i=discord&perline=1)](https://discord.com/users/ayeshaehtisham)
 </p>
 
 ---
