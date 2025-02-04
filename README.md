@@ -1,4 +1,4 @@
-  <h1 align="center"> Hey👋, This is **Ayesha Ehtisham** </h1>
+  <h1 align="center"> Hey👋, This is Ayesha Ehtisham </h1>
   <h3 align="center"> Flutter | Web Developer | Graphic Designer </h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayeshaehtisham&label=Profile%20Views&color=0e75b6&style=flat)  
@@ -15,18 +15,21 @@
    
 - 📫 Reach me ayeshaehtisham04@gmail.com
   
-- ⚡ Fun fact: **The first-ever website created, was just text—no CSS, no images, no JavaScript info.cern.ch**
+- ⚡ Fun fact: **The first-ever website created, was just text—no CSS, no images, no JavaScript http://info.cern.ch/**
 
 ---
 
 ## 🔗 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/ayesha-ehtisham" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/LinkedIn_icon.png" alt="LinkedIn" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
   </a>
   <a href="https://www.instagram.com/its_asha04/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
   </a>
+  <a href="https://discord.com/users/ayeshaehtisham." target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Discord_logo_2023.svg" alt="Discord" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
+ </a>
 </p>
 
 ---
@@ -63,3 +66,7 @@
     </td>
   </tr>
 </table>
+
+---
+
+*Every line of code is a lesson learned* 🌟
