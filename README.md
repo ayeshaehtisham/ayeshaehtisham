@@ -21,13 +21,13 @@
 
 ## 🔗 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayesha-ehtisham" target="_blank">
+  <a href="www.linkedin.com/in/ayesha-ehtisham" target="_blank">
    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
   </a>
   <a href="https://www.instagram.com/its_asha04/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
   </a>
-  <a href="https://discord.com/users/ayeshaehtisham." target="_blank">
+  <a href="www.discord.com/users/ayeshaehtisham." target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Discord_logo_2023.svg" alt="Discord" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
  </a>
 </p>
