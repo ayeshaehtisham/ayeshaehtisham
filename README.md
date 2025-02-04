@@ -18,11 +18,9 @@
 ---
 
 ## 🔗 Let's Connect
-<p align="left">
 [![My Socials](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/ayesha-ehtisham)
 [![My Socials](https://skillicons.dev/icons?i=instagram&perline=1)](https://www.instagram.com/its_asha04)
 [![My Socials](https://skillicons.dev/icons?i=discord&perline=1)](https://discord.com/users/ayeshaehtisham)
-</p>
 
 ---
 
