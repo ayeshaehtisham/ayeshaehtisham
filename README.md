@@ -15,8 +15,9 @@
 
 ---
 
-## 🔗 Let's Connect
+## 🌟 Let's Connect
 [![My Socials](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/ayeshaehtisham)
+[![My Socials](https://skillicons.dev/icons?i=gmail&perline=1)](ayeshaehtisham04@gmail.com)
 
 ---
 
