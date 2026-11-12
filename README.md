@@ -46,15 +46,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaehtisham&layout=compact&theme=default" alt="Top Languages" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayeshaehtisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ayeshaehtisham&show_icons=true&theme=default" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.shion.dev/api?username=ayeshaehtisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=ayeshaehtisham&theme=default" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=ayeshaehtisham&theme=dark&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
